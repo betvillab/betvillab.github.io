@@ -13,9 +13,9 @@ title                    : "Betsy Villa Brochero"
 title_separator          : "-"
 name                     : &name "Betsy Villa Brochero"
 description              : &description "PhD Candidate in Computer Vision at the University of Twente. Research in real-time defect detection and industrial visual inspection systems."
-url                      : https://betsyvilla.github.io
+url                      : https://betvillab.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "betvillab/betsyvilla.github.io"
+repository               : "betvillab/betvillab.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
