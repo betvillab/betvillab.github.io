@@ -5,10 +5,10 @@ category: manuscripts
 permalink: /publication/2026-cv-manufacturing-survey
 excerpt: 'A comprehensive survey of state-of-the-art computer vision methods applied to missing object detection in manufacturing environments, covering deep learning approaches, datasets, and open challenges.'
 date: 2026-01-01
-venue: 'Work in Progress'
-citation: 'Villa Brochero, B. J. et al. (2026). &quot;Computer Vision in Manufacturing for Missing Object Detection: A Survey.&quot; <i>Manuscript in preparation</i>.'
+venue: 'Manuscript in progress (2026)'
+citation: 'Villa Brochero, B. J. et al. (2026). &quot;Computer Vision in Manufacturing for Missing Object Detection: A Survey.&quot; <i>Manuscript in progress</i>.'
 ---
 
 A comprehensive survey of state-of-the-art computer vision methods applied to **missing object detection in manufacturing environments**. This work covers deep learning approaches, available datasets, evaluation benchmarks, and open research challenges in industrial visual inspection.
 
-**Status:** Manuscript in preparation.
+**Status:** Manuscript in progress — 2026.

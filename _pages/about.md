@@ -21,6 +21,7 @@ My background spans **Mechatronics Engineering** (BSc, Universidad Autónoma del
 - **Deep Learning for Defect Detection** — robust ML pipelines for missing component detection
 - **Real-Time Vision Systems** — low-latency inference integrated into production environments
 - **Benchmark Datasets** — building annotated datasets for industrial computer vision evaluation
+- **AI Entrepreneurship** — building technology ventures that translate AI research into real-world impact for SMEs and education
 
 ---
 
@@ -39,10 +40,23 @@ My background spans **Mechatronics Engineering** (BSc, Universidad Autónoma del
 End-to-end computer vision pipeline for automated quality inspection of assembly lines. Integrates real-time defect and missing-object detection with data-driven quality analytics.
 
 **PCB-MC: A Benchmark Dataset for Missing Component Detection in PCBs**  
-Annotated benchmark dataset to support standardized evaluation of computer vision methods for missing component detection in printed circuit boards. *Conference paper in preparation.*
+Annotated benchmark dataset to support standardized evaluation of computer vision methods for missing component detection in printed circuit boards. *Conference paper in progress — 2026.*
 
 **Survey: Computer Vision in Manufacturing for Missing Object Detection**  
-Systematic review of state-of-the-art methods, datasets, and open challenges for CV-based missing object detection in industrial settings. *Manuscript in preparation.*
+Systematic review of state-of-the-art methods, datasets, and open challenges for CV-based missing object detection in industrial settings. *Manuscript in progress — 2026.*
+
+---
+
+## 🚀 Ventures & Entrepreneurship
+
+**[VPL — Villa Polo Labs](https://www.vpl.digital/)**  
+Co-founder of VPL, a Colombian AI & digital transformation laboratory that converts artificial intelligence into measurable results for SMEs and entrepreneurs across Latin America. Services include AI applications, web development, automation, and SEO — with a transparent, results-driven model. → [app.vpl.digital](https://app.vpl.digital)
+
+**CLARA App**  
+AI-powered educational assistant designed to support teachers with lesson planning, content generation, and classroom workflows. Built to make AI genuinely useful in education, especially in Latin American contexts.
+
+**Robótica del Caribe**  
+Initiative to promote robotics, technology, and STEM education in the Caribbean region of Colombia — bringing hands-on engineering experiences to students and communities with limited access to technology.
 
 ---
 
