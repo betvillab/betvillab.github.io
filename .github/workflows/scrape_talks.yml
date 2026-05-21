@@ -21,10 +21,9 @@ jobs:
 
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install jupyter nbconvert pandas requests beautifulsoup4 geopy
+        pip install typing_extensions
+        pip install jupyter pandas requests beautifulsoup4 geopy
         pip install getorg --upgrade
-        pip install typing-extensions
 
     - name: Run Jupyter Notebook
       run: |
