@@ -33,23 +33,43 @@ Research Experience
 Professional Experience
 ======
 * **Industrial Transformation Engineer (Global)**, Gunnebo Safe Storage (Sep 2023 – Present)
-  * Driving Industry 4.0 initiatives across global manufacturing sites
-  * Developing digitalization roadmaps for automation and data integration
-  * Supporting deployment of AI-based inspection systems and production analytics tools
+  * Driving digital transformation initiatives across multiple global manufacturing sites aligned with operational excellence targets
+  * Developing and prioritizing factory digitalization roadmaps including automation, data acquisition, and performance monitoring
+  * Collaborating with Global Operational Excellence and plant leadership teams to identify improvement opportunities
+  * Building structured backlogs of automation and system-integration projects with defined KPIs
+  * Facilitating cross-site knowledge sharing to standardize best practices in manufacturing digitalization
 
 * **Automation & Digital Transformation Engineer**, Gunnebo Safe Storage (Aug 2022 – Aug 2023)
-  * Implemented Industry 4.0 solutions including IoT, data acquisition, and machine learning
-  * Developed automation projects improving production efficiency and quality monitoring
+  * Introduced Industry 4.0 solutions including IoT, data acquisition, business intelligence, and AI
+  * Created roadmaps to guide automation projects from conception to implementation
+  * Identified new improvement opportunities for production processes
 
-* **Trainee Digital Transformation Engineering**, Gunnebo Safe Storage, Netherlands (Mar 2021 – Jul 2022)
-  * Designed automated visual inspection systems for assembly lines
-  * Developed machine learning models for defect detection
+* **Trainee Digital Transformation Engineer**, Gunnebo Safe Storage, Netherlands (Mar 2021 – Jul 2022)
+  * Designed and implemented automated visual inspection systems for assembly processes
+  * Developed machine learning algorithms for defect and missing-object detection
+  * Created graphical user interfaces for operator interaction with inspection systems
+  * Supported deployment and validation in real production environments
+
+* **Mechatronics Intern**, Ikerlan S.Coop, Spain (Feb 2020 – Jul 2020)
+  * Developed LabVIEW-based control and monitoring system for an induction hardening test bench
+  * Selected and integrated sensors and actuators for control, power, and mechanical systems
+  * Conducted technical feasibility and cost analyses for industrial implementation
+
+Ventures & Entrepreneurship
+======
+* **Co-founder**, [VPL — Villa Polo Labs](https://www.vpl.digital/) (2026 – Present)
+  * AI & digital transformation laboratory converting artificial intelligence into measurable results for SMEs and entrepreneurs across Latin America
+* **Developer**, CLARA App (2026 – Present)
+  * AI-powered educational assistant for teachers — lesson planning, content generation, and classroom workflow automation
+* **Founder**, Robótica del Caribe
+  * Initiative promoting robotics, technology, and STEM education in the Caribbean region of Colombia
 
 Technical Skills
 ======
-* **Programming:** Python, C++, MATLAB, Arduino, Java
-* **Computer Vision & ML:** OpenCV, image processing, defect detection systems, machine learning models for visual inspection
-* **Engineering Tools:** LabVIEW, Simulink
+* **Programming:** Python, C++, MATLAB, Arduino, Java, GIT/GitHub
+* **Computer Vision & ML:** OpenCV, image processing, defect detection, machine learning for visual inspection
+* **Cloud & Infrastructure:** Microsoft Azure Services
+* **Simulation & Engineering Tools:** LabVIEW, Simulink, Simul8 (Virtual Factory Simulation), ROS
 
 Publications
 ======
@@ -57,19 +77,24 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Certificates
+======
+* **AI for Everyone** (Feb–Apr 2023) — Deep Learning Academy
+* **AI in Manufacturing** (Sep–Oct 2022) — Delft University of Technology, Netherlands
+
 Awards & Scholarships
 ======
 * **Erasmus Mundus Joint Master Scholarship** (2018–2020) — European Union. Full scholarship for joint MSc in Mechatronics at Karlsruhe University of Applied Sciences and Universidad de Oviedo.
-* **Multidisciplinary Artificial Intelligence Training Program** (2021–2022) — IALAB, Universidad de Buenos Aires, Argentina. Training program in AI funded by the Development Bank of Latin America.
-* **DAAD Scholarship for study trips to Germany** (2014) — Academic mission visiting research centers and universities in Germany.
+* **Multidisciplinary Artificial Intelligence Training Program** (Aug 2021 – Apr 2022) — IALAB, Universidad de Buenos Aires, Argentina. Funded by the Development Bank of Latin America.
+* **DAAD Scholarship for study trips to Germany** (Sep–Oct 2014) — Academic mission visiting research centers and universities in Germany.
 
 Languages
 ======
-* Spanish — Native
-* English — Full Professional Proficiency
-* German — Professional Working Proficiency
+* Spanish — Native / Bilingual
+* English — Native / Bilingual
 * Dutch — Limited Working Proficiency
-* French — Limited Working Proficiency
+* German — Limited Working Proficiency
+* French — Elementary Proficiency
 
 Service & Volunteering
 ======

@@ -49,13 +49,13 @@ Systematic review of state-of-the-art methods, datasets, and open challenges for
 
 ## 🚀 Ventures & Entrepreneurship
 
-**[VPL — Villa Polo Labs](https://www.vpl.digital/)**  
-Co-founder of VPL, a Colombian AI & digital transformation laboratory that converts artificial intelligence into measurable results for SMEs and entrepreneurs across Latin America. Services include AI applications, web development, automation, and SEO — with a transparent, results-driven model. → [app.vpl.digital](https://app.vpl.digital)
+**[VPL — Villa Polo Labs](https://www.vpl.digital/)** *(Co-founder, 2026)*  
+Colombian AI & digital transformation laboratory that converts artificial intelligence into measurable results for SMEs and entrepreneurs across Latin America. Services include AI applications, web development, automation, and SEO — with a transparent, results-driven model. → [app.vpl.digital](https://app.vpl.digital)
 
-**CLARA App**  
+**CLARA App** *(Developer, 2026)*  
 AI-powered educational assistant designed to support teachers with lesson planning, content generation, and classroom workflows. Built to make AI genuinely useful in education, especially in Latin American contexts.
 
-**Robótica del Caribe**  
+**Robótica del Caribe** *(Founder)*  
 Initiative to promote robotics, technology, and STEM education in the Caribbean region of Colombia — bringing hands-on engineering experiences to students and communities with limited access to technology.
 
 ---
