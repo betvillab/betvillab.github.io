@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Betsy Villa Brochero"
-  pronouns         : "she/her"
+  pronouns         :
   bio              : "PhD Candidate in Computer Vision 🎓 University of Twente · Deep learning for industrial defect detection · Mechatronics · Industry 4.0"
   location         : "Enschede, Netherlands"
   employer         : "University of Twente"
