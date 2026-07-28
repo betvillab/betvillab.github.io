@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download a [PDF version of my CV](/files/CV_Betsy_Villa.pdf).
-
 Education
 ======
 * **PhD in Computer Vision**, University of Twente, Enschede, Netherlands (Sep 2023 – Present)
