@@ -7,7 +7,7 @@ excerpt: 'This paper presents a digital image processing system for recognizing 
 date: 2018-01-01
 venue: 'Prospectiva'
 paperurl: 'https://scholar.google.com/citations?user=Pzz7nvQAAAAJ'
-citation: 'Villa, B. et al. (2018). &quot;Digital image processing applied on static sign language recognition system.&quot; <i>Prospectiva</i>. 16, 41–48.'
+citation: 'B. Villa et al. (2018). &quot;Digital image processing applied on static sign language recognition system.&quot; <i>Prospectiva</i>. 16, 41–48.'
 ---
 
 This paper presents a digital image processing system for recognizing static sign language gestures. Computer vision techniques are applied to enable real-time hand gesture classification, contributing to accessible communication tools.
