@@ -27,9 +27,9 @@ My background spans **Mechatronics Engineering** (BSc, Universidad Autónoma del
 
 ## 📌 News
 
-- **2026** — PCB-MC: Missing Component Detection in Printed Circuit Boards accepted at EUVIP 2026 — to be presented in Luxembourg
+- **2026** — PCB-MC: Missing Component Analysis in Printed Circuit Boards accepted at EUVIP 2026 — to be presented in Luxembourg
 - **2026** — Survey paper on CV for missing object detection in manufacturing accepted in IEEE Transactions on Industrial Informatics (IEEE TII)
-- **June 2026** — Poster presentation at the Netherlands Conference on Computer Vision (NCCV 2026): *PCB-MC: Missing Component Detection in Printed Circuit Boards*
+- **June 2026** — Poster presentation at the Netherlands Conference on Computer Vision (NCCV 2026): *PCB-MC: Missing Component Analysis in Printed Circuit Boards*
 - **Sep 2023** — Started PhD at the University of Twente 🎓
 - **Aug 2022** — Joined Gunnebo Safe Storage as Automation & Digital Transformation Engineer
 
@@ -40,7 +40,7 @@ My background spans **Mechatronics Engineering** (BSc, Universidad Autónoma del
 **VIAS — Visual Inspection Assembly System** *(Gunnebo Safe Storage)*  
 End-to-end computer vision pipeline for automated quality inspection of assembly lines. Integrates real-time defect and missing-object detection with data-driven quality analytics.
 
-**PCB-MC: Missing Component Detection in Printed Circuit Boards**  
+**PCB-MC: Missing Component Analysis in Printed Circuit Boards**  
 Annotated benchmark dataset to support standardized evaluation of computer vision methods for missing component detection in printed circuit boards. *Accepted at EUVIP 2026 — to be presented in Luxembourg.*
 
 **Survey: Computer Vision in Manufacturing for Missing Object Detection**  

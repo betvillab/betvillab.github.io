@@ -1,5 +1,5 @@
 ---
-title: "PCB-MC: Missing Component Detection in Printed Circuit Boards"
+title: "PCB-MC: Missing Component Analysis in Printed Circuit Boards"
 collection: talks
 type: "Conference paper presentation"
 talk_type: "Conference paper presentation"
